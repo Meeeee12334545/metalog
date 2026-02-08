@@ -1,0 +1,15 @@
+{
+  "base_url": "http://www.m2m-iot.cc/sign/showLogin#",
+  "headless": true,
+  "slow_mo_ms": 0,
+  "download_dir": "./downloads",
+  "auth_mode": "encrypted",
+  "keyring_service": "metalog_m2m_iot",
+  "history": {
+    "start_label": "Server Start Date",
+    "end_label": "Server End Date",
+    "date_format": "%m/%d/%Y",
+    "search_button_text": "search",
+    "save_excel_text": "SaveExcel"
+  }
+}
